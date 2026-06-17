@@ -30,14 +30,17 @@
     "reviewReminderBounceDock": true,
     "enableNoteReviewPaneOnStartup": true,
     "tagsToReview": [
-      "#review"
+      "#fleeting",
+      "#task"
     ],
-    "noteTagsToIgnore": [],
+    "noteTagsToIgnore": [
+      "#event"
+    ],
     "noteFoldersToIgnore": [
       "**/*.excalidraw.md"
     ],
     "openRandomNote": false,
-    "autoNextNote": false,
+    "autoNextNote": true,
     "showFileMenuReviewOptions": true,
     "deleteTagsOnSchedulingDataDeletion": false,
     "maxNDaysNotesReviewQueue": 365,
