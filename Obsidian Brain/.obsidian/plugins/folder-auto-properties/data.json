@@ -1,0 +1,29 @@
+{
+  "rules": [
+    {
+      "folderPath": "Inbox",
+      "properties": [
+        {
+          "key": "tags",
+          "value": "fleeting",
+          "type": "tags"
+        }
+      ]
+    },
+    {
+      "folderPath": "TaskNotes/Tasks",
+      "properties": [
+        {
+          "key": "sr-interval",
+          "value": 1,
+          "type": "number"
+        },
+        {
+          "key": "sr-ease",
+          "value": 250,
+          "type": "number"
+        }
+      ]
+    }
+  ]
+}

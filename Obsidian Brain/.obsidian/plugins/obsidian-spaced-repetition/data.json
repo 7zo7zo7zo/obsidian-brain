@@ -39,7 +39,7 @@
     "noteFoldersToIgnore": [
       "**/*.excalidraw.md"
     ],
-    "openRandomNote": false,
+    "openRandomNote": true,
     "autoNextNote": true,
     "showFileMenuReviewOptions": true,
     "deleteTagsOnSchedulingDataDeletion": false,
@@ -51,8 +51,8 @@
     "initiallyExpandAllSubdecksInTree": true,
     "showContextInCards": true,
     "showIntervalInReviewButtons": true,
-    "flashcardHeightPercentage": 60,
-    "flashcardWidthPercentage": 60,
+    "flashcardHeightPercentage": 59.98062015503876,
+    "flashcardWidthPercentage": 60.021551724137936,
     "flashcardHeightPercentageMobile": 100,
     "flashcardWidthPercentageMobile": 100,
     "flashcardAgainText": "Again",

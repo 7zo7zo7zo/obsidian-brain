@@ -488,5 +488,37 @@
     "defaultReminderMinutes": null
   },
   "enableDebugLogging": false,
-  "lastSeenVersion": "4.11.0"
+  "lastSeenVersion": "4.11.0",
+  "googleCalendarSyncQueue": [
+    {
+      "taskPath": "TaskNotes/Tasks/test task.md",
+      "requestedAt": 1781692228634,
+      "attempts": 0,
+      "lastError": "Google Calendar sync is not ready"
+    },
+    {
+      "taskPath": "TaskNotes/Tasks/walk dog.md",
+      "requestedAt": 1781727198233,
+      "attempts": 0,
+      "lastError": "Google Calendar sync is not ready"
+    },
+    {
+      "taskPath": "TaskNotes/Tasks/asdsad.md",
+      "requestedAt": 1781726984158,
+      "attempts": 0,
+      "lastError": "Google Calendar sync is not ready"
+    },
+    {
+      "taskPath": "TaskNotes/Tasks/go for a walk.md",
+      "requestedAt": 1781727190690,
+      "attempts": 0,
+      "lastError": "Google Calendar sync is not ready"
+    },
+    {
+      "taskPath": "TaskNotes/Tasks/say the word.md",
+      "requestedAt": 1781727204765,
+      "attempts": 0,
+      "lastError": "Google Calendar sync is not ready"
+    }
+  ]
 }
