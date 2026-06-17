@@ -519,6 +519,12 @@
       "requestedAt": 1781727204765,
       "attempts": 0,
       "lastError": "Google Calendar sync is not ready"
+    },
+    {
+      "taskPath": "TaskNotes/Tasks/hello man.md",
+      "requestedAt": 1781728657896,
+      "attempts": 0,
+      "lastError": "Google Calendar sync is not ready"
     }
   ]
 }
